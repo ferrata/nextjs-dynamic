@@ -1,4 +1,7 @@
-This is a [Next.js](https://nextjs.org) project to demonstrate a bug with dynamic routes.
+This is a [Next.js](https://nextjs.org) project to demonstrate a [bug with dynamic routes](https://github.com/vercel/next.js/issues/77789).
+
+> [!IMPORTANT]
+> The issue is now fixed in Next.js [15.3.1-canary.2](https://github.com/vercel/next.js/releases/tag/v15.3.1-canary.2)
 
 ## Description
 
